@@ -197,7 +197,7 @@ The following visualizations were created during the analysis to understand unem
 
 This histogram shows the distribution of estimated unemployment rates across the available observations.
 
-![Unemployment Rate Distribution](Visualizations/unemployment_distribution.png)
+![Unemployment Rate Distribution](visualizations/unemployment_distribution.png)
 
 ---
 
@@ -205,7 +205,7 @@ This histogram shows the distribution of estimated unemployment rates across the
 
 This horizontal bar chart compares the average unemployment rate across different Indian regions.
 
-![Average Unemployment Rate by Region](Visualizations/average_unemployment_by_region.png)
+![Average Unemployment Rate by Region](visualizations/average_unemployment_by_region.png)
 
 ---
 
@@ -213,7 +213,7 @@ This horizontal bar chart compares the average unemployment rate across differen
 
 This line chart shows how the average unemployment rate changed over the analyzed period.
 
-![Monthly Unemployment Rate Trend](Visualizations/monthly_unemployment_trend.png)
+![Monthly Unemployment Rate Trend](visualizations/monthly_unemployment_trend.png)
 
 ---
 
@@ -221,7 +221,7 @@ This line chart shows how the average unemployment rate changed over the analyze
 
 This visualization compares unemployment trends between Rural and Urban areas.
 
-![Rural vs Urban Unemployment Trend](Visualizations/rural_vs_urban_trend.png)
+![Rural vs Urban Unemployment Trend](visualizations/rural_vs_urban_trend.png)
 
 ---
 
@@ -229,7 +229,7 @@ This visualization compares unemployment trends between Rural and Urban areas.
 
 This chart highlights the average unemployment rate for each month and clearly shows the sharp increase during April and May 2020.
 
-![Average Unemployment Rate by Month](Visualizations/average_unemployment_by_month.png)
+![Average Unemployment Rate by Month](visualizations/average_unemployment_by_month.png)
 
 ---
 
@@ -237,7 +237,7 @@ This chart highlights the average unemployment rate for each month and clearly s
 
 This comparison shows the significant increase in unemployment between January–February 2020 and March–June 2020.
 
-![Early 2020 vs March-June 2020](Visualizations/early_2020_vs_mar_jun_2020.png)
+![Early 2020 vs March-June 2020](visualizations/early_2020_vs_mar_jun_2020.png)
 
 ---
 
